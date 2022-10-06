@@ -1,6 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![AlanCruz10](IMG/anime.gif)
 
-<h1 align="center">The Best programmer - AlanGod <img src="IMG/saludo.jpg" width="30px"></h1>
+<h1 align="center">The Best programmer - AlanGod <img src="IMG/saludo.jpg" width="40px"></h1>
 
 <table align="right">
 <tr>
