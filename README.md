@@ -1,16 +1,37 @@
-### Hi there 👋
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![AlanCruz10](IMG/anime.gif)
 
-<!--
-**AlanCruz10/AlanCruz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">The Best programmer - AlanGod <img src="IMG/saludo.gif" width="30px"></h1>
 
-Here are some ideas to get you started:
+<table align="right">
+<tr>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</td>
+</tr>
+</table>
+
+<details>
+  <summary>:zap: About me!</summary>
+
+###  💻 I am a software development student💻!!
+- 🧐 ¡I learn fast!
+- 😈 I want to be backend!!!
+- 😏 I am 21 years
+- 🇲🇽 I am from mexico
+</details>
+
+<br />
+
+
+<h3 align="left">Estadísticas de GitHub</h3>
+
+<div>
+  <a href="https://github.com/AlanCruz10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanCruz10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCruz10&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+![Snake animation](https://github.com/AlanCruz10/AlanCruz10/blob/output/github-contribution-grid-snake.svg)
+
+
