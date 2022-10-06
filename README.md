@@ -16,8 +16,8 @@
 
 ###  💻 I am a software development student💻!!
 - 🧐 ¡I learn fast!
-- 😈 I want to be backend!!!
-- 😏 I am 21 years
+- 😈 I want to be programmer backend!!!!
+- 😏 I am 20 years
 - 🇲🇽 I am from mexico
 </details>
 
